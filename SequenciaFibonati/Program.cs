@@ -30,7 +30,7 @@ namespace SequenciaFibonati
             {
                 Console.WriteLine("Qual posição você deseja? ");
                 var PosicaoEspecifica = Convert.ToInt32(Console.ReadLine());
-                ulong sim = Resultado[PosicaoEspecifica];
+                ulong sim = Resultado[PosicaoEspecifica - 1];
                 Console.WriteLine("Resultado");
                 Console.WriteLine(sim);
             }
