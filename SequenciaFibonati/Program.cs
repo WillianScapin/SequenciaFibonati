@@ -37,8 +37,8 @@ namespace SequenciaFibonati
             Console.ReadKey();
         }
 
+        // adicionando texto aleatório
 
-        //Testando branch nova
 
         public class Valores
         {
