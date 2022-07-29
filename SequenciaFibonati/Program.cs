@@ -37,7 +37,7 @@ namespace SequenciaFibonati
             Console.ReadKey();
         }
 
-        // rodando em origin
+        // rodando em backup
 
         public class Valores
         {
