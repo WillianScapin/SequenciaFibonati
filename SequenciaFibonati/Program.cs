@@ -37,7 +37,7 @@ namespace SequenciaFibonati
             Console.ReadKey();
         }
 
-        //Testando polices again and again
+        //Testando polices 
 
         public class Valores
         {
