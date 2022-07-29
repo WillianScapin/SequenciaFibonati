@@ -36,6 +36,9 @@ namespace SequenciaFibonati
             }
             Console.ReadKey();
         }
+
+        // adicionando texto aleatório
+
         public class Valores
         {
             public ulong a { get; set; }
